@@ -3,7 +3,7 @@ function Contact() {
     If you have any questions, feel free to reach out to me at <a href="mail to:vivekkondial2002@gmail.com">Email</a>
   </h1>
   <div style={{ display: "flex", justifyContent: "center", alignItems: "center"}}>
-    <img style={{maxHeight:"70vh", maxWidth:"80vw"}} src="{`${import.meta.env.BASE_URL}\info.jpg" alt="Info Image"/>
+    <img style={{maxHeight:"70vh", maxWidth:"80vw"}} src=".\info.jpg" alt="Info Image"/>
     </div>
   </div>
 }

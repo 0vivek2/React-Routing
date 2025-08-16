@@ -6,7 +6,7 @@ import Contact from "./Contact";
 
 function App() {
   return (
-    <Router>
+    <>
       <Navbar />
       <div style={{ padding: "20px" }}>
         
@@ -17,7 +17,7 @@ function App() {
         </Routes>
           
       </div>
-    </Router>
+    </>
   );
 }
 
